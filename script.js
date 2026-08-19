@@ -1,7 +1,13 @@
 const menuItems = [
  {name:"Classic Cappuccino",category:"coffee",desc:"Espresso, steamed milk & soft foam.",price:160,img:"https://images.unsplash.com/photo-1572449043416-55f4685c9bb7?auto=format&fit=crop&w=900&q=80"},
  {name:"Café Latte",category:"coffee",desc:"Smooth espresso with creamy steamed milk.",price:180,img:"https://images.unsplash.com/photo-1541167760496-1628856ab772?auto=format&fit=crop&w=900&q=80"},
- {name:"Wooden Street Mocha",category:"special",desc:"Espresso, chocolate, milk & cinnamon.",price:220,img:"https://images.unsplash.com/photo-1578374173705-969cbe6f2c00?auto=format&fit=crop&w=900&q=80"},
+{
+  name:"Wooden Street Pizza",
+  category:"food",
+  desc:"Crispy crust topped with fresh vegetables, cheese & herbs.",
+  price:280,
+  img:"https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=900&q=80"
+},
  {name:"Cold Brew",category:"coffee",desc:"Slow-brewed, naturally smooth and refreshing.",price:190,img:"https://images.unsplash.com/photo-1517701604599-bb29b565090c?auto=format&fit=crop&w=900&q=80"},
  {name:"Grilled Veg Sandwich",category:"food",desc:"Toasted sourdough, vegetables and house sauce.",price:180,img:"https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=900&q=80"},
  {name:"Paneer Wrap",category:"food",desc:"Spiced paneer, crisp greens and creamy dressing.",price:210,img:"https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=900&q=80"},
